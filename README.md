@@ -4,3 +4,4 @@ albatross
 par
 birdie
 hole
+greens
